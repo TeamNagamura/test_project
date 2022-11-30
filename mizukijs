@@ -1,3 +1,8 @@
 const oredakefuzaketa = () => {
     console.log("もうしません");
 }
+
+//ここから追加
+const ochinjsgasarasareta = () => {
+    console.log("なえ");
+}
